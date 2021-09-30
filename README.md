@@ -12,7 +12,7 @@
 3. Select dll File 
 4. Enjoy
 
-#In Arabic
+# In Arabic
 1. قم بتعطيل نطام الحمايه
 2.  قم بتغيير قياسات شاشه اللعبه الى Windowed
 3.  حمل الهكر

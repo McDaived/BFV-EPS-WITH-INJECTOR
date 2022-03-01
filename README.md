@@ -2,7 +2,7 @@
 
 # Important 
 1. Disable Antivirus
-2. Change Gmae Screen To Board or Windowed
+2. Change Game Screen To Board or Windowed
 
 
 
